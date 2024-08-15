@@ -15,12 +15,12 @@ GMetrix practice exams are designed to expose trainees to hands-on experience wi
 ### Topics examinaed
 The formal object domains can be seen on the [Certiport Examination Guide](https://certiport.pearsonvue.com/fc/ITS/python)
 * Operations using Data Types and Operators (20-25%) Medium
-** Primitive Data Structures (str, int, float, bool)
-** Data type conversions
-** String slicing
-** Collection Structures (lists, dictionaries, tuples, sets)
-** Operators and Order of operations
-** Type identity 
+  * Primitive Data Structures (str, int, float, bool)
+  * Data type conversions
+  * String slicing
+  * Collection Structures (lists, dictionaries, tuples, sets)
+  * Operators and Order of operations
+  * Type identity 
 * Flow Control with Decisions and Loops (25-30%) Hard
 * Input and Output Operations (20-25%) Easy
 * Code Documentation and Structure (15-20%) Medium
